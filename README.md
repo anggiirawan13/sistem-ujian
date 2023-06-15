@@ -40,3 +40,10 @@ Thanks to :
 <li>frankyradio</li>
 <li>and more...</li>
 </ul>
+
+Developers :
+<ul>
+    <li>@anggiirawan</li>
+    <li>@fadlyhdwjy</li>
+    <li>@wahyumuhariq</li>
+</ul>
