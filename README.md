@@ -43,7 +43,7 @@ Thanks to :
 
 Developers :
 <ul>
-    <li>@anggiirawan</li>
-    <li>@fadlyhdwjy</li>
-    <li>@wahyumuhariq</li>
+    <li>https://github.com/anggiirawan13</li>
+    <li>https://github.com/fadlyhdiwjya</li>
+    <li>https://github.com/wahyumuhariq</li>
 </ul>
